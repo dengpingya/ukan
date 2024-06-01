@@ -1,0 +1,25 @@
+﻿//Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDC_FANCYZONESDRAWLAYOUTTEST ACCELERATORS
+BEGIN
+    "?",            IDM_ABOUT,              ASCII,  ALT
+    "/",            IDM_ABOUT,              ASCII,  ALT
+END
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+   IDC_FANCYZONESDRAWLAYOUTTEST   "FANCYZONESDRAWLAYOUTTEST"
+   IDS_APP_TITLE                  "FancyZones_DrawLayoutTest"
+END
